@@ -3,8 +3,6 @@
 <h3 align="center">Development Enthusiast</h3>
 
 <div align="left">
-  <h3>👨‍💻 &nbsp; About Me</h3>
-
   - 💼 &nbsp; I'm currently working as an Intern at Nota Control.
   - 🎓 &nbsp; Undergraduate Student of Information Systems at UFMS.
   - 📚 &nbsp; I'm currently learning Java and HTML.
