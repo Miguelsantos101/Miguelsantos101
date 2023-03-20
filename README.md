@@ -1,13 +1,13 @@
 <h1 align="center">Hey there! I'm Miguel 👋</h1>
-<h3 align="center">Intern at @NotaControl</h3> 
+<h3 align="center">FullStack Developer @NotaControl</h3> 
 <h3 align="center">Development Enthusiast</h3>
 
 <div align="left">
   <h3> About Me </h3>
     
-  - 💼 &nbsp; I'm currently working as an Intern at Nota Control.
+  - 💼 &nbsp; I'm currently working as a FullStack Developer at Nota Control.
   - 🎓 &nbsp; Undergraduate Student of Information Systems at UFMS.
-  - 📚 &nbsp; I'm currently learning Java and HTML.
+  - 📚 &nbsp; I'm currently learning Javascript and Angular.
 </div>
 
 <div>
