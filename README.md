@@ -5,7 +5,7 @@
 <div align="left">
   <h3> About Me </h3>
     
-  - 💼 &nbsp; I'm currently working as a FullStack Developer at Nota Control.
+  - 💼 &nbsp; I'm currently looking for a job.
   - 🎓 &nbsp; Undergraduate Student of Information Systems at UFMS.
   - 📚 &nbsp; I'm currently learning Javascript and Angular.
 </div>
