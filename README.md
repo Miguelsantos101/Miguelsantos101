@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Miguel 👋</h1>
-<h3 align="center">FullStack Developer @NotaControl</h3> 
+<h3 align="center"></h3> 
 <h3 align="center">Development Enthusiast</h3>
 
 <div align="left">
